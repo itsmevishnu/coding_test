@@ -21,5 +21,5 @@
 2. Postman - To test API
 
 ## Disclaimer
-- No AI tools such as chatGPT, code generators are not used.
+- No AI tools such as chatGPT, code generators are used.
 - Referred official documentaion of fastapi, fpdf(https://pyfpdf.readthedocs.io/en/latest/reference/cell/index.html)
